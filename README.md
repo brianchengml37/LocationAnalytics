@@ -4,7 +4,7 @@ Creator - Brian & Cheng<br/>
 Date: 03/12/2018<br/>
 Main script : Predict User Location and Build Recommendation Model.ipynb<br/>
 
-* Visualisation script were adapted from http://angusmacnab.com/Location_SKLearn_Tut_MSData_0.2.html
+* Visualisation codes were adapted from http://angusmacnab.com/Location_SKLearn_Tut_MSData_0.2.html
 
 Sample Visualisation: Clustering using DBSCAN: <br/>
 
