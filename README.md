@@ -11,7 +11,7 @@ Clustering using DBSCAN: <br/>
 
 ![alt text](Clusters.png)<br/>
 
-Location Time Prediction: <br/>
+Location Time Prediction using Markov Chain: <br/>
 
 ![alt text](TimePrediction.png)<br/>
 
